@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Shopping/static/css/main.fce1d66b.css",
-    "main.js": "/Shopping/static/js/main.f7f9ba3f.js",
+    "main.css": "/Shopping/static/css/main.66a5afca.css",
+    "main.js": "/Shopping/static/js/main.858c453d.js",
     "static/media/header-img.png": "/Shopping/static/media/header-img.3115367d982436a68551.png",
     "static/media/vouchers-img.png": "/Shopping/static/media/vouchers-img.e27e6181365d7c3ef1b5.png",
     "static/media/cat-03.jpg": "/Shopping/static/media/cat-03.f2eb01ac72de49d402d0.jpg",
     "static/media/cat-01.jpg": "/Shopping/static/media/cat-01.1248859c205ffe6a4979.jpg",
     "static/media/cat-02.jpg": "/Shopping/static/media/cat-02.12ad3f98318fc00b62b0.jpg",
-    "static/media/Levis.svg": "/Shopping/static/media/Levis.b650083c8faddf24f1a337fd952aef47.svg",
-    "static/media/Amazon.svg": "/Shopping/static/media/Amazon.3536108f49cc2fcaa2becb5460f12ec8.svg",
-    "static/media/HM.svg": "/Shopping/static/media/HM.62d430bac151e672cb78160b6063f84a.svg",
-    "static/media/Shopify.svg": "/Shopping/static/media/Shopify.d61de969b75d71b03a781addb02f056e.svg",
-    "static/media/Lacoste.svg": "/Shopping/static/media/Lacoste.89d0749e6bc51a0dd8fa907a2de834e3.svg",
-    "static/media/Obey.svg": "/Shopping/static/media/Obey.12fdd60ce98fafc305c636fb5cb6117a.svg",
-    "static/media/logo.svg": "/Shopping/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
-    "static/media/inst.svg": "/Shopping/static/media/inst.732079676e1f1e8f5ab8d3607bb89ff5.svg",
-    "static/media/tw.svg": "/Shopping/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
-    "static/media/in.svg": "/Shopping/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
+    "static/media/Levis.svg": "/Shopping/static/media/Levis.7ba092191e049a0d545eabf1082cc9e4.svg",
+    "static/media/Amazon.svg": "/Shopping/static/media/Amazon.39ef66af1d3080203d30dcdfdae42911.svg",
+    "static/media/HM.svg": "/Shopping/static/media/HM.419cc0f9424d69b2fa3fd195fda85698.svg",
+    "static/media/Shopify.svg": "/Shopping/static/media/Shopify.35bfabccd2f9aadbd37c1e2a89c69786.svg",
+    "static/media/Lacoste.svg": "/Shopping/static/media/Lacoste.b0b42ff38b284246a90379d083cb5645.svg",
+    "static/media/Obey.svg": "/Shopping/static/media/Obey.c6eff2f2625887ddf736aadffa4f5072.svg",
+    "static/media/logo.svg": "/Shopping/static/media/logo.1a9acb32fd93666aaec24e52b3d0d126.svg",
+    "static/media/inst.svg": "/Shopping/static/media/inst.bff4f1de7ef789dd79782eb9ba38a7a0.svg",
+    "static/media/tw.svg": "/Shopping/static/media/tw.da2958a425b8fa1a1f10c6c3c0680005.svg",
+    "static/media/in.svg": "/Shopping/static/media/in.9c98ade2455224cf04fa6bf2cf77ea5e.svg",
     "index.html": "/Shopping/index.html",
-    "static/media/arrow.svg": "/Shopping/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
-    "static/media/fb.svg": "/Shopping/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
-    "static/media/decor-yellow.svg": "/Shopping/static/media/decor-yellow.1cde02ab1a06cdaddfa4.svg",
-    "main.fce1d66b.css.map": "/Shopping/static/css/main.fce1d66b.css.map",
-    "main.f7f9ba3f.js.map": "/Shopping/static/js/main.f7f9ba3f.js.map"
+    "static/media/arrow.svg": "/Shopping/static/media/arrow.00242d31254498b51cd7f1897c5dcfdb.svg",
+    "static/media/fb.svg": "/Shopping/static/media/fb.b0dc6918db26d3cda0de8cdb4290ef3b.svg",
+    "static/media/decor-yellow.svg": "/Shopping/static/media/decor-yellow.993270be448e91ccc563.svg",
+    "main.66a5afca.css.map": "/Shopping/static/css/main.66a5afca.css.map",
+    "main.858c453d.js.map": "/Shopping/static/js/main.858c453d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce1d66b.css",
-    "static/js/main.f7f9ba3f.js"
+    "static/css/main.66a5afca.css",
+    "static/js/main.858c453d.js"
   ]
 }
