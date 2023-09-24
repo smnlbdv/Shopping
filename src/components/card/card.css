@@ -1,0 +1,30 @@
+
+
+.card__img {
+    margin-bottom: 28px;
+    border-radius: 20px;
+}
+
+.card__body {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.card__title {
+    margin-bottom: 7px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.56; /* 156.25% */
+    letter-spacing: -0.04em; 
+}
+
+.card__muted {
+    color: #7F7F7F;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 2.08; /* 208.333% */
+    letter-spacing: -0.04em; 
+}
